@@ -1,0 +1,49 @@
+==================
+Soal Ujian Akhir Semester
+Matkul	: Arsitektu dan organisasi Komputer
+Kelas	: TI.17.D3
+Nama	: Pungky  Yudhianto
+Nim	: 311710353	
+===============================================================================================
+
+
+1. Dalam arsitektur komputer ada 4 komponen Utama CPU, Sebutkan dan jelaskan kegunanaanya?
+2. Control Unit adalah bagian dari komputer yang menggenerasi signal yang mengontrol operasi
+komputer, sebutkan jenis apa saja yang termasuk Control Unit?
+3. Set instruksi (instruction set) adalah sekumpulan lengkap instruksi yang dapat di mengerti oleh sebuah
+CPU. Set instruksi sering juga disebut sebagai bahasa mesin . sebutkan macam-macam format
+Instruksi?
+4. Direct Memory Access (DMA) adalah suatu metode transfer data dari memori komputer atau RAM ke
+suatu bagian dari komputer tanpa memprosesnya menggunakan CPU. Sebutkan kelebihan
+menggunakan DMA ?
+5. Pipeline adalah mesin yang melaksanakan beberapa komputasi yang berbeda secara bersama-sama
+,namun pada saat itu setiap komputasi akan berada dalam tahapan eksekusi yang berbeda. Sebutkan
+dua kategori Pipeline ?
+
+Jawab :
+1. Hardware : Hardware (perangkat keras) komputer adalah salah satu bagian dari sistem komputer yang ada.
+
+Software : Software (Perangkat lunak, piranti lunak) adalah program komputer yang berfungsi sebagai sarana interaksi antara pengguna dan perangkat keras
+
+User : yaitu pemakai komputer atau orang yang mengoperasikan komputer(Brainware), karena secanggih apapun komputer jika tidak ada orang mengopersikan (user) nya maka komputer tersebut tidak dapat digunakan.
+
+Data :Meerupakan fakta berupa angka, karakter, symbol, gambar, tanda-tanda, isyarat, tulisan, suara, bunyi yang merepresentasikan keadaan sebenarnya yang sellanjutnya digunakan sebagai suatu sistem informasi.
+
+2.Single-Cycle CU ,Multi-Cycle CU ,Memori ( Internal Memory )
+
+3. Data procecessing: Arithmetic dan Logic Instructions
+   Data storage: Memory instructions
+   Data Movement: I/O instructions
+   Control: Test and branch instructions
+   
+4. Kelebihan DMA :
+`Dapat menirukan sebagian fungsi processor 
+`Dapat mengambil alih fungsi prosesor yang berhubungan dengan transfer data 
+`CPU dapat melakukan manajemen operasi baca tulis (transfer data) dengan baik dan juga dapat menyelsaikan instruksi yang lain. 
+`Mendapat informasi tentang jumlah data bit yang ditransfer, alamat dari device dan memory yang diperlukan dan arah dari aliran data.
+
+5. Pipelining aritmatika.
+Proses segmentasi dari ALU dari sistem yang muncul dalam kategori ini. Suatu contoh daari fungsi pipeline aritmatika diberikan dalam bagian contoh pipeline multifungsi.
+
+Pipelining instruksi.
+Dalam suatu komputer nonpipeline, CPU bekerja melalui suatu siklus yang berkesinambungan dari fetch-decode-eksekusi untuk semua instruksinya
